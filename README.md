@@ -1,7 +1,7 @@
 Project stats
 =============
 
-Number of stars for [https://github.com/wurstmeister/kafka-docker](https://github.com/wurstmeister/kafka-docker) over time.
+Stats for [https://github.com/wurstmeister/kafka-docker](https://github.com/wurstmeister/kafka-docker) over time.
 
 ![wurstmeister/kafka-docker star](./data/kafka.png)
 
@@ -10,6 +10,8 @@ starcatcher "https://api.github.com/repos/wurstmeister/kafka-docker" "https://hu
 ```
 
 ---
+
+Stats for [https://github.com/sscaling/docker-jmx-prometheus-exporter](https://github.com/sscaling/docker-jmx-prometheus-exporter) over time.
 
 ![sscaling/jmx-exporter](./data/jmx-exporter.png)
 
