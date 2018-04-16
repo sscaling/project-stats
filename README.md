@@ -14,5 +14,5 @@ starcatcher "https://api.github.com/repos/wurstmeister/kafka-docker" "https://hu
 ![sscaling/jmx-exporter](./data/jmx-exporter.png)
 
 ```
-starcatcher "https://api.github.com/repos/docker-jmx-prometheus-exporter" "https://hub.docker.com/v2/repositories/sscaling/jmx-prometheus-exporter/" jmx-exporter.csv jmx-exporter.png
+starcatcher "https://api.github.com/repos/sscaling/docker-jmx-prometheus-exporter" "https://hub.docker.com/v2/repositories/sscaling/jmx-prometheus-exporter/" jmx-exporter.csv jmx-exporter.png
 ```
